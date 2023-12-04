@@ -4,7 +4,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle"
 import Home from "./Home";
 import Contact from "./Contact";
 import Service from "./Service";
-import Error from "./Error";
+// import Error from "./Error";
 import About from "./About"
 import Navbar from "./Navbar";
 import Footer from "./Footer";
